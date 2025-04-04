@@ -48,3 +48,11 @@ Right now, I'm working on building my own server and creating mods from scratch.
 ## 📬 Contact
 
 You can reach me on Discord: `m18cz`
+
+
+![](https://github-readme-stats.vercel.app/api?username=m18cz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=m18cz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m18cz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=m18cz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
