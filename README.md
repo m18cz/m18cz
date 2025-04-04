@@ -1,12 +1,18 @@
-# 👋 Hi, I'm m18cz
+<!-- Profile views badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=m18cz&label=Profile%20views&color=0e75b6&style=flat" alt="m18cz" />
+</p>
 
-I'm currently learning ![GLua](https://img.shields.io/badge/GLua-%231DA1F2?style=flat-square&logo=codeforces&logoColor=white) to develop my own Garry's Mod server and custom addons.  
-I already know the basics of ![Lua](https://img.shields.io/badge/Lua-00008B?style=flat-square&logo=lua&logoColor=white), and now I'm focusing on applying that knowledge to the Garry's Mod environment.
+<!-- Animated waving hand + typing effect -->
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm m18cz
+</h1>
 
-Right now, I'm working on building my own server and creating mods from scratch. My goal is to understand how everything works under the hood and eventually run a stable, customized experience.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F779&center=true&vCenter=true&width=435&lines=Learning+GLua+for+Garry's+Mod;Future+GMod+Server+Owner;Mod+Maker+in+Progress;Not+a+Game+Dev+(Yet!)" alt="Typing SVG" />
+</p>
 
 ---
-# 👋 Hi, I'm m18cz
 
 I'm currently learning ![GLua](https://img.shields.io/badge/GLua-%231DA1F2?style=flat-square&logo=codeforces&logoColor=white) to develop my own Garry's Mod server and custom addons.  
 I already know the basics of ![Lua](https://img.shields.io/badge/Lua-00008B?style=flat-square&logo=lua&logoColor=white), and now I'm focusing on applying that knowledge to the Garry's Mod environment.
