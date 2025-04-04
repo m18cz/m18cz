@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F779&center=true&vCenter=true&width=435&lines=Learning+GLua+for+Garry's+Mod;Future+GMod+Server+Owner;Mod+Maker+in+Progress;Not+a+Game+Dev+(Yet!)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F779&center=true&vCenter=true&width=435&lines=Learning+GLua+for+Garry's+Mod;Future+GMod+Server+Owner;Mod+Maker+in+Progress" alt="Typing SVG" />
 </p>
 
 ---
