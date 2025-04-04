@@ -33,7 +33,6 @@ Right now, I'm working on building my own server and creating mods from scratch.
 ## 👉 Software & Tools
 
 - ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white) Sublime Text – my main code editor  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) GitHub – basic push/pull experience
 
 ---
 
